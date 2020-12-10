@@ -1,0 +1,13 @@
+{
+    "name": "fonts-asset/devicon",
+    "description": "Devicon for composer.",
+    "type": "fonts-asset",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zsgsdesign",
+            "email": "zsgsdesign@gmail.com"
+        }
+    ],
+    "require": {}
+}
